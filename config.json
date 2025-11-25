@@ -1,0 +1,14 @@
+{
+    "screen_width": 1600,
+    "screen_height": 900,
+    "fps": 60,
+    "gravity": 0.09,
+    "particle_lifespan": 75,
+    "particle_count_min": 60,
+    "particle_count_max": 80,
+    "particle_spread": 0.75,
+    "fade_speed": 4,
+    "firework_spawn_rate": 0.02,
+    "firework_min_speed": -15,
+    "firework_max_speed": -13
+}
